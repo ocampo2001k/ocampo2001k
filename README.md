@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m <Your Name>!
+# 👋 Hey there, I’m Carlos Ocampo!
 
 I'm a Computer Science graduate from **LaSalle College** with a passion for building useful, real-world software. Right now, I'm diving deeper into **C++**, **cloud platforms**, and **AI**, while developing a **personal finance tracker** using **C++** and working toward certifications in multiple areas.
 
@@ -38,7 +38,7 @@ I'm a Computer Science graduate from **LaSalle College** with a passion for buil
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ocampo2001k&show_icons=true&theme=tokyonight" alt="Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ocampo2001k&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -47,8 +47,8 @@ I'm a Computer Science graduate from **LaSalle College** with a passion for buil
 
 I'm always open to collaborating on interesting projects or sharing knowledge.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/carlos-ocampo-cantillo/))
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-portfolio.com](https://ocampo2001k.github.io/index.html))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-ocampo-cantillo/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ocampo2001k.github.io/index.html)
 
 ---
 
