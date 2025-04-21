@@ -36,7 +36,7 @@ I'm a Computer Science graduate from **LaSalle College** with a passion for buil
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ocampo2001k&show_icons=true&theme=tokyonight" alt="Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
 </p>
